@@ -9,7 +9,7 @@ const homePath = (...args) => path.resolve(__dirname, ...args)
 module.exports = {
     
     // Chosen mode tells webpack to use its built-in optimizations accordingly.
-    mode: 'production', // "production" | "development" | "none"
+    mode: 'development', // "production" | "development" | "none"
 
     // Here the application starts executing and webpack starts bundling
     // Defaults to ./src

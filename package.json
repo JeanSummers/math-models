@@ -19,5 +19,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "JeanSummers",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "random": "^2.1.1"
+  }
 }
